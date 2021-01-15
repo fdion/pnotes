@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# json notebooks -- using jupytext to pair with percent .py
+*.ipynb
